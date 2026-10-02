@@ -1,4 +1,4 @@
-# 坦克火炮稳定器（ESP32-S3，Arduino IDE）
+# 简陋的火炮稳定器（ESP32-S3，Arduino IDE）
 
 基于 ESP32-S3 + MPU6050 + ELRS 2.4G nano 的两轴火炮稳定器，模拟现代坦克的炮塔稳定，支持遥控和 WiFi 网页两种控制方式。
 
