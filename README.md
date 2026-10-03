@@ -30,7 +30,4 @@ WiFi 网页控制
 
 所有引脚、通道、稳定方向、行程、WiFi 名称密码都集中在 `GunStabilizer/config.h` 顶部：
 
-- 补偿方向反了：改 `ELEV_STAB_INVERT` / `YAW_STAB_INVERT` 的符号。
-- 炮塔摆角不合适：改 `TRAVERSE_PULSE_SPAN`（500～1000 之间试）。
-- 炮塔转速快慢：改 `TRAVERSE_MAX_DPS`。
-- 上电自检：调好后把 `SERVO_TEST_ON_BOOT` 改成 0 关闭。
+
